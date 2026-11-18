@@ -55,3 +55,12 @@ against the prompt's own rules.
   run generated code on real hardware before trusting it.
 - Facts in the MicroPython prompts were checked against the official
   MicroPython documentation and Raspberry Pi datasheets.
+
+## License
+
+This library is licensed under the
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)
+license. You are free to use, share, and adapt these prompts —
+including commercially — as long as you give appropriate credit,
+link back to this library and the license, and indicate if you made
+changes.
